@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^1.5.2",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "name": "tripel",
+  "version": "1.0.0",
+  "description": "shopping cart app",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliseo Gold",
+  "license": "MIT"
+}
